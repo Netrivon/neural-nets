@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingSet>
+		<trainingSetSamples>
+				<TrainingSample>
+						<inputVector>
+							<list>
+								<value>0</value>
+								<value>0</value>
+							</list>
+						</inputVector>
+						<outputVector>
+							<list>
+								<value>0</value>
+							</list>
+						</outputVector>
+				</TrainingSample>
+				
+				<TrainingSample>
+						<inputVector>
+							<list>
+								<value>0</value>
+								<value>1</value>
+							</list>
+						</inputVector>
+						<outputVector>
+							<list>
+								<value>0</value>
+							</list>
+						</outputVector>
+				</TrainingSample>
+				
+				<TrainingSample>
+						<inputVector>
+							<list>
+								<value>1</value>
+								<value>0</value>
+							</list>
+						</inputVector>
+						<outputVector>
+							<list>
+								<value>0</value>
+							</list>
+						</outputVector>
+				</TrainingSample>
+				
+				<TrainingSample>
+						<inputVector>
+							<list>
+								<value>1</value>
+								<value>1</value>
+							</list>
+						</inputVector>
+						<outputVector>
+							<list>
+								<value>1</value>
+							</list>
+						</outputVector>
+				</TrainingSample>
+				
+		</trainingSetSamples>
+</TrainingSet>
+
