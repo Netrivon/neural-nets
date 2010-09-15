@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Adaline>
+	<numInputElements>2</numInputElements>
+	<numOutputElements>1</numOutputElements>
+	<learningRate>0.0001</learningRate>
+	<minError>0.00005</minError>
+	<maxIterations>10000000</maxIterations>
+	<bias>-0.5</bias>
+</Adaline>
